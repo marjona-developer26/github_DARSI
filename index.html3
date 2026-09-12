@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <title>Mening sahifam</title>
+</head>
+
+<body style="background-color: lightgray; text-align: center;">
+
+    <h1 style="color: purple; font-size: 40px;">
+        Mening saytim
+    </h1>
+
+    <p style="color: darkblue; font-size: 20px;">
+        HTML o‘rganish juda qiziq!
+    </p>
+
+    <button style="background-color: blue; color: white; padding: 10px 20px; border: none;">
+        Batafsil
+    </button>
+
+</body>
+</html>
